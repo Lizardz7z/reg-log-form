@@ -1,4 +1,4 @@
-#Registration/authorization form
+# Registration/authorization form
 Приложение создано на основе WinForms + С++\
 Имплементирует функционал формы для регистрации/авторизации\
 ## Data storage
